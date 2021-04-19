@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Four</folder>
+	<filename>Four28.jpeg</filename>
+	<path>C:\Users\Adarsh\Downloads\RealTimeObjectDetection-main\Tensorflow\workspace\images\Four\Four28.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>four</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>5</ymin>
+			<xmax>360</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>
