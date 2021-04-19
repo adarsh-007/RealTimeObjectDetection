@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello13.jpg</filename>
+	<path>C:\Users\Adarsh\Downloads\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\hello13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>607</xmin>
+			<ymin>297</ymin>
+			<xmax>951</xmax>
+			<ymax>705</ymax>
+		</bndbox>
+	</object>
+</annotation>

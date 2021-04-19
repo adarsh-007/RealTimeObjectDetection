@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>v11.jpg</filename>
+	<path>C:\Users\Adarsh\Downloads\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\v11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>v</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>117</ymin>
+			<xmax>476</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>
